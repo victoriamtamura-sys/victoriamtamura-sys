@@ -12,19 +12,13 @@ Helpdesk API
 
 API REST para gerenciamento de chamados de suporte, desenvolvida com Java e Spring Boot.
 
-🔗 Ver repositório
-
 Node.js Cloud Native API
 
 Projeto de API com TypeScript, Docker, PostgreSQL e práticas de automação de testes e CI/CD.
 
-🔗 Ver repositório
-
 Finnancas
 
 Aplicação web de controle financeiro desenvolvida com HTML, CSS e JavaScript.
-
-🔗 Ver repositório
 
 🛠️ Tecnologias e ferramentas
 
