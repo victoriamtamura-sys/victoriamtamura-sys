@@ -1,106 +1,148 @@
-<!--
-  Profile README — Victoria Tamura
-  Keep this page evidence-based: describe implemented features in each repository README.
--->
-
+<!-- Profile README | Victoria Tamura -->
 <div align="center">
 
-# Victoria Tamura
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=190&section=header&text=Victoria%20Tamura&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20APIs%20%7C%20AUTOMATION&descAlignY=60&descSize=13" width="100%" alt="Purple header banner"/>
 
-### Full Stack Developer | Backend • APIs • Automation
+### Building software that solves real problems.
 
-Building practical software solutions through backend development, frontend experiences, system integration, and process automation.
+Software development • Backend engineering • APIs • Process automation
 
-[![GitHub](https://img.shields.io/badge/GitHub-victoriamtamura--sys-181717?style=flat-square&logo=github)](https://github.com/victoriamtamura-sys)
-[![Repositories](https://img.shields.io/badge/Focus-Software%20Engineering-315A7D?style=flat-square)](#engineering-focus)
-[![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20opportunities-238636?style=flat-square)](#contact)
+[![GitHub](https://img.shields.io/badge/GitHub-18122B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriamtamura-sys)
+[![Repositories](https://img.shields.io/badge/Repositories-6D28D9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/victoriamtamura-sys?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## ✦ About me
 
-I am an IT professional with experience in technical support, telecommunications operations, service management, and process improvement. I am applying that operational perspective to software development: understanding real problems, translating needs into technical solutions, and continuously improving how systems and workflows work.
+I am an IT professional with experience in technical support, telecommunications operations, service management, and process improvement. I bring this operational perspective into software development: understanding real-world problems, designing practical solutions, and improving how systems and workflows operate.
 
-My current development focus is on full stack applications, REST APIs, backend engineering, database integration, and automation. I value maintainable code, clear documentation, reliable delivery, and solutions that solve concrete problems.
+My current focus is **Full Stack Development**, with emphasis on backend engineering, REST APIs, database integration, frontend applications, and automation. I value maintainable code, thoughtful technical decisions, documentation, quality, and continuous improvement.
 
-## Engineering focus
-
-- **Backend development:** Java, Spring Boot, Node.js, TypeScript, Python
-- **Frontend development:** JavaScript, TypeScript, React, HTML, CSS
-- **APIs & integration:** REST concepts, HTTP, JSON, application integration
-- **Data:** SQL, PostgreSQL
-- **DevOps foundations:** Git, GitHub Actions, Docker, Kubernetes fundamentals
-- **Automation:** process automation, scripting, and workflow improvement
-
-## Selected projects
-
-### 01 · Helpdesk API
-A REST API for support-ticket management, built with Java and Spring Boot.
-
-**Stack:** Java · Spring Boot · REST API
-
-[Repository →](https://github.com/victoriamtamura-sys/helpdesk-api)
-
-### 02 · Node.js Cloud Native API
-A cloud-native-oriented REST API demonstrating containerization, orchestration configuration, and an automated CI/CD workflow.
-
-**Stack:** Node.js · TypeScript · PostgreSQL · Docker · Kubernetes · GitHub Actions
-
-Implemented project elements documented in the repository include multi-stage Docker builds, non-root runtime, lint/build/test pipeline, Kubernetes Deployments and Services, ConfigMaps and Secrets, health probes, and structured JSON logging.
-
-[Repository →](https://github.com/victoriamtamura-sys/nodejs-cloud-native-api)
-
-### 03 · Finnanças
-A browser-based personal finance application with charts, dark mode, and local browser storage.
-
-**Stack:** HTML · CSS · JavaScript
-
-[Repository →](https://github.com/victoriamtamura-sys/finnancas)
-
-## Professional background
-
-My experience in IT operations helps me approach development with attention to user needs, incident resolution, service quality, prioritization, and operational efficiency. I have also been involved in prototyping and exploring automation opportunities for internal workflows.
-
-## Engineering principles
-
-The practices I aim to apply and deepen across my projects:
-
-- Clear separation of responsibilities and readable code
-- Consistent Git workflow and meaningful commit history
-- Automated tests and quality checks
-- Secure handling of configuration and secrets
-- Reproducible local environments
-- Useful documentation, setup instructions, and API examples
-- Observability through meaningful logs and health checks
-- Incremental delivery and continuous improvement
-
-## Current learning path
-
-- Full stack application development
-- Backend design and REST API architecture
-- Automated testing and code quality
-- Database design and integration
-- Containers, CI/CD, and cloud-native practices
-- Application security and observability
-
-## GitHub activity
+## ✦ Technology landscape
 
 <div align="center">
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamtamura-sys&theme=github-compact&hide_border=true)
+**BACKEND & LANGUAGES**
+
+![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-7C3AED?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6D28D9?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
+
+**FRONTEND**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7C3AED?style=flat-square&logo=css3&logoColor=white)
+
+**DATABASE · DEVOPS · INTEGRATION**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6D28D9?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-7C3AED?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
 
 </div>
 
-## Contact
+## ✦ Featured engineering projects
 
-- GitHub: [@victoriamtamura-sys](https://github.com/victoriamtamura-sys)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ◈ Helpdesk API
+
+REST API for support-ticket management, built with Java and Spring Boot.
+
+**Focus:** backend development, API design, and support-domain workflows.
+
+[Explore repository →](https://github.com/victoriamtamura-sys/helpdesk-api)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Node.js Cloud Native API
+
+Cloud-native-oriented REST API demonstrating containerization, orchestration configuration, and automated CI/CD.
+
+**Includes:** TypeScript, PostgreSQL, Docker multi-stage build, Kubernetes manifests, health probes, and GitHub Actions pipeline.
+
+[Explore repository →](https://github.com/victoriamtamura-sys/nodejs-cloud-native-api)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Finnanças
+
+Browser-based personal finance application with charts, dark mode, and local browser storage.
+
+**Focus:** JavaScript, interface development, and client-side data handling.
+
+[Explore repository →](https://github.com/victoriamtamura-sys/finnancas)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ What I build toward
+
+Reliable applications with clear boundaries, useful documentation, automated quality checks, secure configuration, and observable behavior.
+
+**Focus:** engineering fundamentals and continuous improvement.
+
+</td>
+</tr>
+</table>
+
+## ✦ GitHub analytics
 
 <div align="center">
 
-*Always learning. Always building. Focused on solving real problems with software.*
+<a href="https://github.com/victoriamtamura-sys">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victoriamtamura-sys&show_icons=true&hide_border=true&bg_color=160D24&title_color=C4B5FD&text_color=FFFFFF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/victoriamtamura-sys">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamtamura-sys&layout=pie&hide_border=true&bg_color=160D24&title_color=C4B5FD&text_color=FFFFFF&langs_count=8" alt="Programming languages pie chart"/>
+</a>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=victoriamtamura-sys&bg_color=160D24&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+## ✦ Engineering mindset
+
+- **Maintainability:** readable code, modularity, and separation of concerns.
+- **Quality:** automated tests, code review habits, and repeatable checks.
+- **Security:** careful configuration and secret management.
+- **Delivery:** version control, CI/CD, and reproducible environments.
+- **Operations:** useful logs, health checks, and attention to reliability.
+- **Communication:** documentation that helps another developer run and understand the project.
+
+## ✦ Current learning journey
+
+Deepening my knowledge of full stack architecture, backend design, automated testing, database modeling, application security, containers, CI/CD, cloud-native practices, and observability.
+
+## ✦ Beyond the code
+
+My background in IT operations has taught me to understand users, investigate incidents, prioritize work, communicate clearly, and look for opportunities to make processes more efficient. I enjoy connecting that experience with software engineering.
+
+## ✦ Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoriamtamura-sys)
+
+<br/>
+
+*Curiosity in learning. Discipline in building. Purpose in solving problems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=100&section=footer" width="100%" alt="Purple footer banner"/>
 
 </div>
