@@ -1,59 +1,106 @@
-Olá! Eu sou a Victoria Tamura 👋
+<!--
+  Profile README — Victoria Tamura
+  Keep this page evidence-based: describe implemented features in each repository README.
+-->
 
-Desenvolvedora Full Stack em evolução | APIs | Automação de Processos
+<div align="center">
 
-Sou profissional de Tecnologia da Informação, com experiência em suporte técnico, Telecomunicações e melhoria de processos. Atualmente, direciono meus estudos e projetos para o desenvolvimento de software, criação de protótipos, integração de APIs e automação de tarefas.
+# Victoria Tamura
 
-Gosto de transformar problemas reais em soluções tecnológicas funcionais, buscando código organizado, aplicações eficientes e melhoria contínua.
+### Full Stack Developer | Backend • APIs • Automation
 
-🚀 Projetos em destaque
+Building practical software solutions through backend development, frontend experiences, system integration, and process automation.
 
-Helpdesk API
+[![GitHub](https://img.shields.io/badge/GitHub-victoriamtamura--sys-181717?style=flat-square&logo=github)](https://github.com/victoriamtamura-sys)
+[![Repositories](https://img.shields.io/badge/Focus-Software%20Engineering-315A7D?style=flat-square)](#engineering-focus)
+[![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20opportunities-238636?style=flat-square)](#contact)
 
-API REST para gerenciamento de chamados de suporte, desenvolvida com Java e Spring Boot.
+</div>
 
-Node.js Cloud Native API
+---
 
-Projeto de API com TypeScript, Docker, PostgreSQL e práticas de automação de testes e CI/CD.
+## About
 
-Finnancas
+I am an IT professional with experience in technical support, telecommunications operations, service management, and process improvement. I am applying that operational perspective to software development: understanding real problems, translating needs into technical solutions, and continuously improving how systems and workflows work.
 
-Aplicação web de controle financeiro desenvolvida com HTML, CSS e JavaScript.
+My current development focus is on full stack applications, REST APIs, backend engineering, database integration, and automation. I value maintainable code, clear documentation, reliable delivery, and solutions that solve concrete problems.
 
-🛠️ Tecnologias e ferramentas
+## Engineering focus
 
-Front-end
+- **Backend development:** Java, Spring Boot, Node.js, TypeScript, Python
+- **Frontend development:** JavaScript, TypeScript, React, HTML, CSS
+- **APIs & integration:** REST concepts, HTTP, JSON, application integration
+- **Data:** SQL, PostgreSQL
+- **DevOps foundations:** Git, GitHub Actions, Docker, Kubernetes fundamentals
+- **Automation:** process automation, scripting, and workflow improvement
 
-HTML5, CSS3, JavaScript, TypeScript e React
+## Selected projects
 
-Back-end
+### 01 · Helpdesk API
+A REST API for support-ticket management, built with Java and Spring Boot.
 
-Java, Spring Boot, Node.js e Python
+**Stack:** Java · Spring Boot · REST API
 
-Banco de dados
+[Repository →](https://github.com/victoriamtamura-sys/helpdesk-api)
 
-SQL e PostgreSQL
+### 02 · Node.js Cloud Native API
+A cloud-native-oriented REST API demonstrating containerization, orchestration configuration, and an automated CI/CD workflow.
 
-DevOps e ferramentas
+**Stack:** Node.js · TypeScript · PostgreSQL · Docker · Kubernetes · GitHub Actions
 
-Git, GitHub, Docker e GitHub Actions
+Implemented project elements documented in the repository include multi-stage Docker builds, non-root runtime, lint/build/test pipeline, Kubernetes Deployments and Services, ConfigMaps and Secrets, health probes, and structured JSON logging.
 
-Integrações e automação
+[Repository →](https://github.com/victoriamtamura-sys/nodejs-cloud-native-api)
 
-APIs REST e Power Platform
+### 03 · Finnanças
+A browser-based personal finance application with charts, dark mode, and local browser storage.
 
-📚 Atualmente focada em
+**Stack:** HTML · CSS · JavaScript
 
-Desenvolvimento Full Stack
+[Repository →](https://github.com/victoriamtamura-sys/finnancas)
 
-Arquitetura e desenvolvimento de APIs REST
+## Professional background
 
-Testes automatizados e qualidade de código
+My experience in IT operations helps me approach development with attention to user needs, incident resolution, service quality, prioritization, and operational efficiency. I have also been involved in prototyping and exploring automation opportunities for internal workflows.
 
-Integração entre aplicações e bancos de dados
+## Engineering principles
 
-Automação de processos e práticas de CI/CD
+The practices I aim to apply and deepen across my projects:
 
-🎯 Meu objetivo
+- Clear separation of responsibilities and readable code
+- Consistent Git workflow and meaningful commit history
+- Automated tests and quality checks
+- Secure handling of configuration and secrets
+- Reproducible local environments
+- Useful documentation, setup instructions, and API examples
+- Observability through meaningful logs and health checks
+- Incremental delivery and continuous improvement
 
-Desenvolver aplicações completas e trabalhar com algo que eu amo.
+## Current learning path
+
+- Full stack application development
+- Backend design and REST API architecture
+- Automated testing and code quality
+- Database design and integration
+- Containers, CI/CD, and cloud-native practices
+- Application security and observability
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=victoriamtamura-sys&theme=github-compact&hide_border=true)
+
+</div>
+
+## Contact
+
+- GitHub: [@victoriamtamura-sys](https://github.com/victoriamtamura-sys)
+
+---
+
+<div align="center">
+
+*Always learning. Always building. Focused on solving real problems with software.*
+
+</div>
