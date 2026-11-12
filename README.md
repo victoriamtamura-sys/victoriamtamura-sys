@@ -101,21 +101,6 @@ Reliable applications with clear boundaries, useful documentation, automated qua
 </tr>
 </table>
 
-## ✦ GitHub analytics
-
-<div align="center">
-
-<a href="https://github.com/victoriamtamura-sys">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victoriamtamura-sys&show_icons=true&hide_border=true&bg_color=160D24&title_color=C4B5FD&text_color=FFFFFF&icon_color=A78BFA&ring_color=8B5CF6&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/victoriamtamura-sys">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamtamura-sys&layout=pie&hide_border=true&bg_color=160D24&title_color=C4B5FD&text_color=FFFFFF&langs_count=8" alt="Programming languages pie chart"/>
-</a>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=victoriamtamura-sys&bg_color=160D24&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
 ## ✦ Development mindset
 
 - **Maintainability:** readable code, modularity, and separation of concerns.
