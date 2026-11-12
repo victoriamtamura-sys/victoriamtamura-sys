@@ -1,7 +1,7 @@
 <!-- Profile README | Victoria Tamura -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=190&section=header&text=Victoria%20Tamura&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20%7C%20APIs%20%7C%20AUTOMATION&descAlignY=60&descSize=13" width="100%" alt="Purple header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=190&section=header&text=Victoria%20Tamura&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20WEB%20EM%20EVOLU%C3%87%C3%83O&descAlignY=60&descSize=13" width="100%" alt="Purple header banner"/>
 
 ### Building software that solves real problems.
 
@@ -18,7 +18,7 @@ Software development • Backend engineering • APIs • Process automation
 
 I am an IT professional with experience in technical support, telecommunications operations, service management, and process improvement. I bring this operational perspective into software development: understanding real-world problems, designing practical solutions, and improving how systems and workflows operate.
 
-My current focus is **Full Stack Development**, with emphasis on backend engineering, REST APIs, database integration, frontend applications, and automation. I value maintainable code, thoughtful technical decisions, documentation, quality, and continuous improvement.
+My current focus is **Full Stack Development**, with emphasis on backend development, REST APIs, database integration, frontend applications, and automation. I value maintainable code, thoughtful technical decisions, documentation, quality, and continuous improvement.
 
 ## ✦ Technology landscape
 
@@ -50,7 +50,7 @@ My current focus is **Full Stack Development**, with emphasis on backend enginee
 
 </div>
 
-## ✦ Featured engineering projects
+## ✦ Featured development projects
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ Browser-based personal finance application with charts, dark mode, and local bro
 
 Reliable applications with clear boundaries, useful documentation, automated quality checks, secure configuration, and observable behavior.
 
-**Focus:** engineering fundamentals and continuous improvement.
+**Focus:** development fundamentals and continuous improvement.
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Reliable applications with clear boundaries, useful documentation, automated qua
 
 </div>
 
-## ✦ Engineering mindset
+## ✦ Development mindset
 
 - **Maintainability:** readable code, modularity, and separation of concerns.
 - **Quality:** automated tests, code review habits, and repeatable checks.
@@ -131,7 +131,7 @@ Deepening my knowledge of full stack architecture, backend design, automated tes
 
 ## ✦ Beyond the code
 
-My background in IT operations has taught me to understand users, investigate incidents, prioritize work, communicate clearly, and look for opportunities to make processes more efficient. I enjoy connecting that experience with software engineering.
+My background in IT operations has taught me to understand users, investigate incidents, prioritize work, communicate clearly, and look for opportunities to make processes more efficient. I enjoy connecting that experience with web development.
 
 ## ✦ Contact
 
