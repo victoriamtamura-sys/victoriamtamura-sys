@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:C4B5FD&height=190&section=header&text=Victoria%20Tamura&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVIMENTO%20WEB%20EM%20EVOLU%C3%87%C3%83O&descAlignY=60&descSize=13" width="100%" alt="Purple header banner"/>
 
-### Building software that solves real problems.
+### Desenvolvedora Web em evolução, criando soluções digitais.
 
 Software development • Backend engineering • APIs • Process automation
 
